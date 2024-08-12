@@ -15,6 +15,6 @@ In this project, I utilized MySQL to perform a comprehensive analysis of video g
 🌍 Region-Wise Sales Analysis: Segmented sales data by region using SELECT and WHERE clauses, offering insights into regional preferences and trends.
 
 🎮 Sales by Genre: Explored how different genres performed in terms of sales, providing a deeper understanding of market dynamics.
-
+ 
 🚀 Outcome:
   The analysis provided valuable insights into the video game industry's sales patterns, helping to identify key trends, successful genres, and leading platforms. MySQL's robust querying capabilities allowed for in-depth data analysis and effective decision-making.
