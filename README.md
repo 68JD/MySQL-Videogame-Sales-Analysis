@@ -1,6 +1,9 @@
-# 🎮 Video Game Sales Analysis Using MySQL
+# 🎮 Video Game Sales Analysis Using MySQL and PowerBi
 
-In this project, I utilized MySQL to perform a comprehensive analysis of video game sales data. The dataset includes various attributes such as game titles, platforms, release years, genres, and sales figures across different regions.
+In this project, I utilized MySQL and Power BI to perform a comprehensive analysis of video game sales data. The dataset includes various attributes such as game titles, platforms, release years, genres, and sales figures across different regions.
+
+MySQL was employed to manage and query the dataset, enabling efficient data processing and extraction of key insights.
+Power BI was used to create dynamic dashboards that visually represent the data, highlighting trends, top-selling games, and regional performance metrics. These dashboards provide an interactive way to explore the dataset and support data-driven decision-making.
 
 🎯 Objectives:
 
