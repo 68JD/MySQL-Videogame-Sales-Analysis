@@ -1,4 +1,4 @@
-🎮 Video Game Sales Analysis Using MySQL
+# 🎮 Video Game Sales Analysis Using MySQL
 
 In this project, I utilized MySQL to perform a comprehensive analysis of video game sales data. The dataset includes various attributes such as game titles, platforms, release years, genres, and sales figures across different regions.
 
